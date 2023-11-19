@@ -4,6 +4,9 @@ package com.itheima.drools.entity;
  * 订单实体
  */
 public class Order {
+    /**
+     * 入参
+     */
     private Double originalPrice;//订单原始价格，即优惠前价格
     private Double realPrice;//订单真实价格，即优惠后价格
 
