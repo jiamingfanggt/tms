@@ -1,7 +1,7 @@
 package com.itheima.drools.entity;
 
 /**
- * 订单实体类
+ * 订单实体
  */
 public class Order {
     private Double originalPrice;//订单原始价格，即优惠前价格
